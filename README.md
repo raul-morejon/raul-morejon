@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola, soy Raúl Morejón! 👋
 
-<!--
-**raul-morejon/raul-morejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Tortosa. Apasionado por la programación y el desarrollo de aplicaciones, me encanta aprender nuevas tecnologías y resolver problemas mediante código.
 
-Here are some ideas to get you started:
+🚀 **Mi objetivo** es mejorar mis habilidades de programación y crear aplicaciones útiles y eficientes. Actualmente, estoy aprendiendo sobre aplicaciones móviles y bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tecnologías y Herramientas
+
+- **Lenguajes de programación**: Java, JavaScript, SQL
+- **Frameworks**: Aprendiendo React Native
+- **Bases de datos**: MySQL, Oracle Database
+- **Herramientas**: Git, GitHub, VS Code, IntelliJ IDEA
+- **Desarrollo móvil**: Java (Android), React Native (iOS y Android )
+
+---
+
+## 📚 Actualmente estoy aprendiendo
+
+- Desarrollo de aplicaciones móviles con **Java**.
+- Uso de **SQL** en Aplicaciones Móviles.
+
+---
+
+## 🌱 Aún estoy aprendiendo…
+
+- Desarrollo de aplicaciones en **iOS y Android** con **React Native**.
+- Técnicas de entrenamiento de modelos de aprendizaje automático **(machine learning)**.
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- **LinkedIn**: [linkedin.com/in/raul-morejon-pulido]([https://linkedin.com/in/tu-nombre](https://www.linkedin.com/in/raul-morejon-pulido/))
+- **Correo electrónico**: [raulmorejonpulido@gmail.com](mailto:raulmorejonpulido@gmail.com)
+
+---
+
+> "Las máquinas serán capaces de hacer todo lo que los humanos pueden hacer." – Alan Turing
+
+
+
