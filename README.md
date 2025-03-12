@@ -4,6 +4,8 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Tor
 
 🚀 **Mi objetivo** es mejorar mis habilidades de programación y crear aplicaciones útiles y eficientes. Actualmente, estoy aprendiendo sobre aplicaciones móviles y bases de datos.
 
+![foto](https://github.com/raul-morejon/raul-morejon/blob/main/logoraul.png)
+
 ---
 
 ## 🔧 Tecnologías y Herramientas
