@@ -32,7 +32,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Tor
 
 ## 📫 ¿Cómo contactarme?
 
-- **LinkedIn**: [linkedin.com/in/raul-morejon-pulido]([https://linkedin.com/in/tu-nombre](https://www.linkedin.com/in/raul-morejon-pulido/))
+- **LinkedIn**: [linkedin.com/in/raul-morejon-pulido]((https://linkedin.com/in/tu-nombre](https://www.linkedin.com/in/raul-morejon-pulido/))
 - **Correo electrónico**: [raulmorejonpulido@gmail.com](mailto:raulmorejonpulido@gmail.com)
 
 ---
