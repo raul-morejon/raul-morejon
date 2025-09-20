@@ -10,25 +10,26 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Tor
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes de programación**: Java, JavaScript, SQL
-- **Frameworks**: Aprendiendo React Native
-- **Bases de datos**: MySQL, Oracle Database
-- **Herramientas**: Git, GitHub, VS Code, IntelliJ IDEA
-- **Desarrollo móvil**: Java (Android), React Native (iOS y Android )
+- **Lenguajes de programación**: Java, C#, SQL, JavaScript Python, Kotlin, Dart
+- **Frameworks**: .NET Framework (WinForms, Entity Framework)
+- **Bases de datos**: Microsoft SQL Server, MySQL, Oracle Database
+- **Herramientas**: Git, VS, GitHub, VS Code, IntelliJ IDEA
+- **Desarrollo móvil**: Java y Kotlin
 
 ---
 
 ## 📚 Actualmente estoy aprendiendo
 
-- Desarrollo de aplicaciones móviles con **Java**.
+- Desarrollo de aplicaciones móviles con **Java y Kotlin**.
 - Uso de **SQL** en Aplicaciones Móviles.
+- Desarrollo de aplicaciones de escritorio con C# y .NET Framework (WinForms, Entity Framework).
 
 ---
 
 ## 🌱 Aún estoy aprendiendo…
 
-- Desarrollo de aplicaciones en **iOS y Android** con **React Native**.
 - Técnicas de entrenamiento de modelos de aprendizaje automático **(machine learning)**.
+- Programación de eventos y automatizaciones en A3ERP usando C#.
 
 ---
 
